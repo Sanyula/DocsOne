@@ -17,8 +17,7 @@ Response:
 <hr>
 <h3>To GET DOCX</h3>
 <br>
-Still working to returning  a docx as an attachment given an html
-
+Still working on returning  a docx as an attachment given an html
 <br><br>
 
 <b>NOTE: I am not a .NET developer, i just wasn't able to find anything good enough to give me good results in my beloved PHP</b>
